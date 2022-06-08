@@ -1,0 +1,69 @@
+body{
+  background-color: #FFF6E3
+}
+header{
+  background-color: #FFE3A6;
+  width: 100%;
+  height: 150px
+}
+footer{
+  background-color: #FAC18E;
+  width: 100%;
+  height: 100px
+}
+#zomer{
+  color: #f5bfd0;
+  background-color: #FA327F
+}
+#fotozomer{
+  background-color: #f5bfd0
+}
+#zon{
+  color: #ffd0a3;
+  background-color: #F78D2A
+}
+#fotozon{
+  background-color: #ffd0a3
+}
+#parasol{
+  color: #afb5fa;
+  background-color: #0a1efa;
+}
+#fotoparasol{
+  background-color: #afb5fa
+}
+#strand{
+  color: #2f7d2f;
+  background-color: #00fbff
+}
+#fotostrand{
+  background-color: #2f7d2f
+}
+#zee{
+  color: #f5c99f;
+  background-color: #995a1f
+}
+#fotozee{
+  background-color: #f5c99f
+}
+#water{
+  color: #9fc0f5;
+  background-color: #1b3763
+}
+#fotowater{
+   background-color: #9fc0f5
+}
+#zand{
+  color: #a8a77b;
+  background-color: #ffd342
+}
+#fotozand{
+  background-color: #a8a77b
+}
+#zonnebrand{
+  color: #f5f5ed;
+  background-color: #ff9819
+}
+#fotozonnebrand{
+   background-color: #f5f5ed
+}
